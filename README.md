@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Adam 👋</h1>
+<h1 align="center">Hi there, I'm Ziqi 👋</h1>
 
 <div align="center">
   <img src="https://chenziqiadam-github-readme-stats.vercel.app/api?username=ChenziqiAdam&show_icons=true" alt="Adam's GitHub Stats" />
@@ -12,11 +12,11 @@
 
 ## About Me
 
-Hi, I'm Adam! My research interest is centered on efficient and evolving AI systems. I am actively seeking PhD opportunities starting from 2027 Fall.
+Hi, I'm Ziqi! My research interest is centered on efficient and evolving AI systems. I am actively seeking PhD opportunities starting from 2027 Fall.
 
 ## Currently Working On
 
-- Advancing Multi-Agent System, efficient LLM Architecture and self-evolving AI
+- Advancing Multi-Agent System, efficient LLM Architecture, self-evolving AI and AI4Sci
 - Developing Obsidian plugins
 - Contributing to open-source AI communities
 - Exploring Social Engineering and Software Engineering
