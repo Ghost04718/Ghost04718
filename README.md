@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ziqi 👋</h1>
 
 <div align="center">
-  <img src="https://chenziqiadam-github-readme-stats.vercel.app/api?username=ChenziqiAdam&show_icons=true" alt="Adam's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ChenziqiAdam&show_icons=true" alt="Adam's GitHub Stats" />
   <img src="https://chenziqiadam-github-readme-stats.vercel.app/api/top-langs/?username=ChenziqiAdam&layout=compact" alt="Adam's Top Langs" />
 </div>
 <div align="center">
