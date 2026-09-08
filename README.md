@@ -7,12 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=ChenziqiAdam" alt="Profile Views" />
 </div>
 
----
-
 ## About Me
 
 Hi, I'm Ziqi! My research interest is centered on efficient and adaptive LLMs. I am actively seeking PhD opportunities starting from 2027 Fall.
-
----
 
 <p align="center">Feel free to reach out!</p>
